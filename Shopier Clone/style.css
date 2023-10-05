@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=PT+Serif:wght@700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 250vh;
+    font-family: 'Montserrat', sans-serif;
+    max-width: 100%;
+    
+
+}
+
+.ust-10px {
+    position: relative;
+    top: 70px;
+    left: 0;
+    width: 90%;
+    height: 1px;
+    /* Çizginin kalınlığı */
+    background-color: #CDD0D1;
+    /* Çizgi rengi */
+    content: '';
+}
+
+#box {
+
+    max-width: 400px;
+    position: relative;
+    margin-top: 0.5%;
+    float: right;
+    margin-right: 10%;
+}
+
+
+
+#box .bi-search {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    font-size: 14px;
+
+}
+
+#search {
+    width: 300px;
+    box-sizing: border-box;
+    border: 1px solid #CDD0D1;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+
+}
+
+#box .bi-basket3 {
+    position: relative;
+    padding-left: 110%;
+    top: -35px;
+    right: 12px;
+    font-size: 20px;
+
+}
+
+.shopier_logo {
+    position: relative;
+    padding-left: 8%;
+    top: -205px;
+    right: 12px;
+}
+
+
+.shop {
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 0%;
+
+}
+
+.content {
+    box-sizing: border-box;
+    width: 30%;
+    margin-top: 5%;
+
+}
+
+.shop_name {
+    
+    width: 500px;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'PT Serif', serif;
+    margin-left: 20rem;
+
+}
+
+  
+
+.marchenoel {
+    width: 20%;
+    margin-left: 43%;
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+}
+
+
+ul {
+    list-style-type: none;
+    padding: 20px;
+    
+}
+ul {
+    list-style-type: none;
+    margin-bottom: -3%;
+    padding: 0;
+    text-align: center;
+}
+li {
+   
+    display: inline-block;
+}
+
+li a {
+   
+    padding:12px 16px;
+    color:black; 
+}
+
+.line {
+    position: relative;
+    top: 70px;
+    left: 100px;
+    width: 90%;
+    height: 1px;
+    /* Çizginin kalınlığı */
+    background-color: #CDD0D1;
+    /* Çizgi rengi */
+    content: '';
+}
+
+.card1{
+    
+    margin-top: 10rem;
+    padding-left: 1rem;
+    float: left;
+    
+}
+.card2{
+    
+    margin-top: 10rem;
+    padding-right: 10rem;
+    float: right;
+    margin-left: -1%;
+}
+.btn-primary{
+    color: #14D9AD;
+    
+    
+}
+
+
+
+.content {
+    padding: 20px;
+    text-align: center;
+}
+
+/* footer */
+
+
